@@ -1,0 +1,12 @@
+{
+  "name": "<%= appName %>",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "ionic": "~1.0.0",
+    "ngstorage": "0.3.0",
+    "ngCordova": "~0.1.12-alpha",
+    "angular-translate": "~2.6.1",
+  }
+}
+
